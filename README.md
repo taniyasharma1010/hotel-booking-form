@@ -21,6 +21,9 @@ A simple hotel room booking form built with HTML.
 1. Download or clone this repository
 2. Open `index.html` in any web browser (or use the Live Server extension in VS Code)
 
+## Output
+![Hotel Room Booking Form](home.png)
+
 ## Outcome
 - Successfully created a hotel room booking form webpage using HTML
 - Implemented input fields, labels, select, textarea, and buttons
